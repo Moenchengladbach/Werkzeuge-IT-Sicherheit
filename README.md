@@ -18,6 +18,7 @@ Forensik Tools
 [Detego](https://detegoglobal.com/)  
 [CCL SPEKTOR](https://www.cclsolutionsgroup.com/forensic-products)  
 [X-Ways](http://www.x-ways.net/)  
+[Magnet Axiom](https://www.magnetforensics.com/)
 
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)
