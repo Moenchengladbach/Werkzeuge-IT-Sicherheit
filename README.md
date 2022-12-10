@@ -23,6 +23,7 @@ Forensik Tools
 [Nextron](https://www.nextron-systems.com/)  
 [Crowdstrike](https://www.crowdstrike.de/)  
 [Snort](https://www.snort.org/)  
+[Volatility](https://www.volatilityfoundation.org/)  
 
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)
