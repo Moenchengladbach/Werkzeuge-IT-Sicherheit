@@ -21,6 +21,7 @@ Forensik Tools
 [Magnet Axiom](https://www.magnetforensics.com/)  
 [Paladin](https://sumuri.com/software/paladin/)  
 [Nextron](https://www.nextron-systems.com/)  
+[Crowdstrike](https://www.crowdstrike.de/)  
 
 
 
