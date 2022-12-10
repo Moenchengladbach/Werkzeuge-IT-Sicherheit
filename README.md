@@ -16,7 +16,8 @@ Analyse Webseiten
 
 Forensik Tools  
 [Detego](https://detegoglobal.com/)  
-[CCL](https://www.cclsolutionsgroup.com/forensic-products)    
+[CCL SPEKTOR](https://www.cclsolutionsgroup.com/forensic-products)  
+[X-Ways](http://www.x-ways.net/)  
 
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)
