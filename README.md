@@ -1,4 +1,4 @@
-# Werkzeuge-IT-Sicherheit
+# Werkzeuge IT-Sicherheit
 Hilfsmittel für IT Sicherheitsvorfälle
 
 - 👋 Hi, I’m @Moenchengladbach
