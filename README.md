@@ -20,7 +20,8 @@ Forensik Tools
 [X-Ways](http://www.x-ways.net/)  
 [Magnet Axiom](https://www.magnetforensics.com/)  
 [Paladin](https://sumuri.com/software/paladin/)  
-[Nextron)(https://www.nextron-systems.com/)
+[Nextron)(https://www.nextron-systems.com/)  
+
 
 
 Partner für IT Forensik  
