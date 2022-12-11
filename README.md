@@ -25,6 +25,7 @@ Forensik Tools
 [Snort](https://www.snort.org/)  
 [Volatility](https://www.volatilityfoundation.org/)  
 [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-7-1)  
+[Autopsy](https://www.sleuthkit.org/autopsy/)  
 
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)  
