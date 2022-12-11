@@ -29,8 +29,13 @@ Forensik Tools
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)  
 
+Reporting   
+[DFIR Reports}(https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)  
+
 Qualifizierte APT Response Dienstleister  
 [APT Reponse Dienstleiter](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Dienstleister_APT-Response-Liste.pdf?__blob=publicationFile&v=12)  
+
+
 
 
 
