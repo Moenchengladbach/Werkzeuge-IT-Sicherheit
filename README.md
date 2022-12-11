@@ -39,7 +39,7 @@ Videos
 [Netzwerktechnik: Warriors of the net (German)](https://www.youtube.com/watch?v=4VxPazlA0Zc)  
 
 Bücher  
-[The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)   
+[The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099) [How to Hack Like a Ghost](https://nostarch.com/how-hack-ghost)  
 
 
 
