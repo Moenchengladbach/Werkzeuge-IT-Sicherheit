@@ -32,6 +32,9 @@ Forensik Tools
 Aktuelle RDS Hashsätze  
 [RDS Hashsets](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds)  
 
+Dateien und URLs analysieren  
+[Virustotal](https://www.virustotal.com/gui/home/upload)  
+
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)  
 
