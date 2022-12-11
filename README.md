@@ -37,7 +37,7 @@ Qualifizierte APT Response Dienstleister
 [APT Reponse Dienstleiter](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Dienstleister_APT-Response-Liste.pdf?__blob=publicationFile&v=12)  
 
 Videos  
-[Netzwerktechnik: Warriors of the net (German)](https://www.youtube.com/watch?v=4VxPazlA0Zc)  
+[Warriors of the net (German)](https://www.youtube.com/watch?v=4VxPazlA0Zc)  
 
 Bücher  
 [The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)  
