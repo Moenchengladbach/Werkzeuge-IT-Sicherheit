@@ -29,6 +29,9 @@ Forensik Tools
 [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-7-1)  
 [Autopsy](https://www.sleuthkit.org/autopsy/)  
 
+Aktuelle RDS Hashsätze  
+[RDS Hashset](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds)  
+
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)  
 
