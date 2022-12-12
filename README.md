@@ -34,6 +34,8 @@ Aktuelle RDS Hashsätze
 
 Dateien und URLs analysieren  
 [Virustotal](https://www.virustotal.com/gui/home/upload)  
+[downforeveryoneorjustme](https://downforeveryoneorjustme.com/)  
+[haveipeenpwdned](https://haveibeenpwned.com/)  
 
 Partner für IT Forensik  
 [MH-Service](https://www.mh-service.de/de)  
