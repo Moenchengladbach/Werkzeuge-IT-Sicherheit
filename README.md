@@ -55,7 +55,7 @@ Bücher
 [How to Hack Like a Ghost](https://nostarch.com/how-hack-ghost)  
 
 Definitionen   
-[ISO Online Brwowsing Platform](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en)
+[ISO Online Browsing Platform](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en)
 
 
 
