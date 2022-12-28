@@ -54,7 +54,7 @@ Bücher
 [The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)  
 [How to Hack Like a Ghost](https://nostarch.com/how-hack-ghost)  
 
-Definitionen 
+Definitionen   
 [ISO Online Brwowsing Platform](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en)
 
 
