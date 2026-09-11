@@ -1,4 +1,4 @@
-## Dieser Bereich umfasst Werkzeuge, Grundlagen und Analysen zur Sicherheit industrieller Netzwerke und Operational Technology (OT).
+## Werkzeuge, Grundlagen und Analysen zur Sicherheit industrieller Netzwerke und Operational Technology (OT).
 
 ## Lernziele
 - Verständnis industrieller Kommunikationsprotokolle
@@ -7,3 +7,5 @@
 
 ## Relevanz
 OT-Security ist essenziell für KRITIS, Fertigung, Automotive und Energieversorgung.
+
+## Inhalt
