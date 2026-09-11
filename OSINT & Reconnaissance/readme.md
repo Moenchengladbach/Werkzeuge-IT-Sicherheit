@@ -8,3 +8,5 @@
 ## Relevanz
 OSINT ist ein Kernbestandteil von Pentesting, Threat Intelligence und Incident Response.
 03_Behörden-Regulierung/README.md
+
+## Inhalt
