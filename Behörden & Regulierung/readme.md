@@ -1,4 +1,4 @@
-## Dieser Bereich enthält offizielle Quellen, Leitlinien und rechtliche Grundlagen.
+## Offizielle Quellen, Leitlinien und rechtliche Grundlagen.
 
 ## Lernziele
 - Verständnis regulatorischer Anforderungen
@@ -8,7 +8,7 @@
 ## Relevanz
 Wichtig für Cyber-Sicherheitsmanagement, Compliance und Governance.
 
-## Link
+## Inhalt
 
 [BSI - Leitfaden Digitaler Erthelfer](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/CSN/210712_Leitfaden_Digitaler_Ersthelfer.html)  
 [BSI - Leitfaden Vorfall Praktiker und Vorfall Experte](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/CSN/Leitfaden_VP_VE.pdf?__blob=publicationFile&v=20)    
