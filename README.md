@@ -13,6 +13,7 @@ Leitfäden
 [BSI - Leitfaden IT-Forensik](https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/Sicherheitspruefungen/IT-Forensik/forensik_node.html)  
 [SP 800-86, Guide to Integrating Forensic Techniques into Incident Response | CSRC (nist.gov)](https://csrc.nist.gov/publications/detail/sp/800-86/final)  
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) – Quelloffene Plattform (GPL-3.0) für autonomes, KI-gestütztes Penetration Testing von Webanwendungen und APIs. Selbst gehostet, mit lokaler Privacy Gateway, die sensible Daten tokenisiert, sodass das LLM niemals echte Werte sieht. Französischer/europäischer Hersteller ASC-IT.
 Analyse Webseiten  
 [Security Headers](https://securityheaders.com/)
 
