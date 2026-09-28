@@ -5,7 +5,7 @@
 ## Lernziele
 
 - Industrielle Kommunikationsprotokolle verstehen
-- OT-Angriffsflächen erkennen
+- Operational-Technology-(OT)-Angriffsflächen erkennen
 - Unterschiede zwischen klassischer IT und OT verstehen
 - Grundlagen sicherer OT-Architekturen kennenlernen
 
