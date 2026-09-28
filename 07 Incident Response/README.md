@@ -5,9 +5,9 @@
 ## Lernziele
 
 - Sicherheitsvorfälle strukturiert bearbeiten
-- Indicators of Compromise analysieren
+- Indicators of Compromise (IOC) analysieren
 - Threat Hunting verstehen
-- Endpoint Detection and Response einsetzen
+- Endpoint Detection and Response (EDR) einsetzen
 - Reaktionsmaßnahmen kennenlernen
 
 ## Relevanz
@@ -19,17 +19,17 @@ Incident Response ist ein Kernbereich von Security Operations Center (SOC), Comp
 ### Endpoint Detection & Response
 
 - [Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/)
-  - **Wofür:** Endpoint Detection and Response (EDR), Incident Detection und Indicator-of-Compromise-Analyse (IOC)
+  - **Wofür:** EDR, Incident Detection und IOC-Analyse
   - **Relevanz:** Incident Response und Endpoint Security
 
 - [CrowdStrike](https://www.crowdstrike.de/)
-  - **Wofür:** Endpoint Detection and Response, Threat Hunting und Incident Response
+  - **Wofür:** EDR, Threat Hunting und Incident Response
   - **Relevanz:** Enterprise Security
 
 ### IOC-Analyse & Threat Hunting
 
 - [Nextron Systems – THOR / Aurora](https://www.nextron-systems.com/)
-  - **Wofür:** Indicator-of-Compromise (IOC)-Scanning, Threat Detection und Threat Hunting
+  - **Wofür:** IOC-Scanning, Threat Detection und Threat Hunting
   - **Relevanz:** Incident Response und Advanced Persistent Threat Hunting
 
 ### Incident-Response-Training
