@@ -27,7 +27,7 @@ IT-Forensik ist zentral für Digital Forensics and Incident Response (DFIR), Str
 
 - [Magnet AXIOM](https://www.magnetforensics.com/)
   - **Wofür:** Analyse digitaler Artefakte aus Computern, Mobilgeräten und weiteren Quellen
-  - **Relevanz:** Professionelle DFIR-Umgebungen
+  - **Relevanz:** Professionelle Digital-Forensics-and-Incident-Response-(DFIR)-Umgebungen
 
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
   - **Wofür:** Open-Source-Plattform für Datenträger-, Timeline- und Artefaktanalyse
