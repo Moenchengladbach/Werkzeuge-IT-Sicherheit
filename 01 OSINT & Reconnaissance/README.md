@@ -1,7 +1,5 @@
 # OSINT & Reconnaissance
 
-# OSINT & Reconnaissance
-
 **Open Source Intelligence (OSINT)** umfasst öffentlich zugängliche Informationsquellen zur Analyse von Domains, IP-Adressen, Systemen und digitaler Infrastruktur.
 
 ## Lernziele
