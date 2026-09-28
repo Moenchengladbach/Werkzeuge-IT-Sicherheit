@@ -1,7 +1,5 @@
 # Schwachstellenanalyse & Security Testing
 
-# Schwachstellenanalyse & Security Testing
-
 Schwachstellenanalyse und Security Testing dienen der systematischen Identifikation, Bewertung und Überprüfung von Sicherheitsproblemen in IT-Systemen und Infrastrukturen.
 
 ## Lernziele
