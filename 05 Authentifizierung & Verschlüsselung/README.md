@@ -5,7 +5,7 @@ Authentifizierung und Verschlüsselung umfassen Methoden und Werkzeuge zur siche
 ## Lernziele
 
 - Starke Authentifizierungsverfahren kennenlernen
-- Multi-Faktor-Authentifizierung einsetzen
+- Multi-Faktor-Authentifizierung (MFA) einsetzen
 - Grundlagen von Zertifikaten verstehen
 - Daten und Kommunikation verschlüsseln
 
@@ -18,7 +18,7 @@ Authentifizierung und Verschlüsselung gehören zu den grundlegenden Schutzmaßn
 ### Multi-Faktor-Authentifizierung
 
 - [YubiKey](https://www.yubico.com/products/)
-  - **Wofür:** Hardwarebasierte Multi-Faktor-Authentifizierung (MFA), Fast Identity Online 2 (FIDO2), Passkeys, Secure Shell (SSH) und Pretty Good Privacy (PGP)
+  - **Wofür:** Hardwarebasierte MFA, Fast Identity Online 2 (FIDO2), Passkeys, Secure Shell (SSH) und Pretty Good Privacy (PGP)
   - **Relevanz:** Starke Authentifizierung und Identitätsschutz
 
 ### Zertifikate
