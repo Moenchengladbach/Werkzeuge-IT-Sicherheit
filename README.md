@@ -1,61 +1,161 @@
-# Werkzeuge IT-Sicherheit
+# 🔐 Werkzeuge IT-Sicherheit
 Hilfsmittel für IT Sicherheitsvorfälle
 
 - 👋 Hi, I’m @Moenchengladbach
 - 👀 I’m interested in Cyber Security Management
 - 🌱 I’m currently teaching "Werkzeuge in der IT-Sicherheit"
 - 💞️ I’m looking to collaborate on Tools
-- 📫 How to reach me ... [Prof. Dr. Matthias Mehrtens](https://www.hs-niederrhein.de/cyber-campus-nrw/mehrtens/)
+- 📫 How to reach me ... [Prof. Dr. Matthias Mehrtens](https://www.hs-niederrhein.de/cyber-campus-nrw/mehrtens/)  
 
-Leitfäden  
-[BSI - Leitfaden Digitaler Erthelfer](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/CSN/210712_Leitfaden_Digitaler_Ersthelfer.html)  
-[BSI - Leitfaden Vorfall Praktiker und Vorfall Experte](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/CSN/Leitfaden_VP_VE.pdf?__blob=publicationFile&v=20)    
-[BSI - Leitfaden IT-Forensik](https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/Sicherheitspruefungen/IT-Forensik/forensik_node.html)  
-[SP 800-86, Guide to Integrating Forensic Techniques into Incident Response | CSRC (nist.gov)](https://csrc.nist.gov/publications/detail/sp/800-86/final)  
+ 
 
-Analyse Webseiten  
-[Security Headers](https://securityheaders.com/)
+Eine strukturierte Sammlung von **Werkzeugen, Informationsquellen, Lernmaterialien und weiterführenden Ressourcen rund um die IT-Sicherheit**.
 
-Forensik Tools  
-[Detego](https://detegoglobal.com/)  
-[CCL SPEKTOR](https://www.cclsolutionsgroup.com/forensic-products)  
-[X-Ways](http://www.x-ways.net/)  
-[Magnet Axiom](https://www.magnetforensics.com/)  
-[Paladin](https://sumuri.com/software/paladin/)  
-[Nextron](https://www.nextron-systems.com/)  
-[Crowdstrike](https://www.crowdstrike.de/)  
-[Snort](https://www.snort.org/)  
-[Volatility](https://www.volatilityfoundation.org/)  
-[FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-7-1)  
-[Autopsy](https://www.sleuthkit.org/autopsy/)  
+Das Repository dient als zentrale Übersicht, um relevante Security-Werkzeuge schneller zu finden, deren Einsatzzweck einzuordnen und sich systematisch mit verschiedenen Bereichen der IT-Sicherheit auseinanderzusetzen.
 
-Aktuelle RDS Hashsätze  
-[RDS Hashsets](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds)  
+> **Hinweis:** Dieses Repository befindet sich im Aufbau und wird fortlaufend erweitert und überarbeitet.
 
-Dateien und URLs analysieren  
-[Virustotal](https://www.virustotal.com/gui/home/upload)  
-[downforeveryoneorjustme](https://downforeveryoneorjustme.com/)  
-[haveipeenpwdned](https://haveibeenpwned.com/)  
-[Netzbeweis](https://www.netzbeweis.com)  
+---
 
-Partner für IT Forensik  
-[MH-Service](https://www.mh-service.de/de)  
+## 🎯 Ziel des Repositories
 
-Reporting   
-[DFIR Reports](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)  
+Die Sammlung soll insbesondere dabei helfen:
 
-Qualifizierte APT Response Dienstleister  
-[APT Reponse Dienstleiter](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Dienstleister_APT-Response-Liste.pdf?__blob=publicationFile&v=12)  
+- IT-Security-Werkzeuge kennenzulernen
+- geeignete Werkzeuge für unterschiedliche Aufgaben zu finden
+- Einsatzbereiche und Relevanz der Werkzeuge schnell zu verstehen
+- Open-Source- und frei verfügbare Lösungen zu entdecken
+- vertrauenswürdige Informationsquellen zu finden
+- theoretisches Wissen durch praktische Übungen zu ergänzen
+- verschiedene Bereiche der IT-Sicherheit strukturiert zu erschließen
 
-Videos  
-[Warriors of the net (German)](https://www.youtube.com/watch?v=4VxPazlA0Zc)  
+Der Schwerpunkt liegt auf **Lernen, Studium, Security-Labs und der praktischen Auseinandersetzung mit IT-Sicherheit**.
 
-Bücher  
-[The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)  
-[How to Hack Like a Ghost](https://nostarch.com/how-hack-ghost)  
+---
 
-Definitionen   
-[ISO Online Browsing Platform](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en)
+## 📚 Themenbereiche
+
+| Nr. | Themenbereich | Inhalt |
+|---:|---|---|
+| 01 | **OSINT & Reconnaissance** | Open Source Intelligence (OSINT), Informationsgewinnung, Domain- und IP-Recherche |
+| 02 | **Netzwerk & Netzwerksicherheit** | Netzwerkanalyse, Monitoring, Intrusion Detection und Netzwerkgrundlagen |
+| 03 | **Schwachstellenanalyse & Security Testing** | Schwachstellenscanner, Security Assessments und Sicherheitsprüfungen |
+| 04 | **Webseitenanalyse** | URL-Analyse, HTTP-Sicherheit, Redirects, Datenlecks und Web-Beweissicherung |
+| 05 | **Authentifizierung & Verschlüsselung** | Multi-Faktor-Authentifizierung (MFA), Zertifikate, Kryptografie und sichere Kommunikation |
+| 06 | **Malware & Angriffsvektoren** | Malware-Analyse, Ransomware, Credential-Angriffe und Angriffstechniken |
+| 07 | **Incident Response** | Erkennung, Analyse, Eindämmung und Behandlung von IT-Sicherheitsvorfällen |
+| 08 | **Advanced Persistent Threat Response (APT-Response)** | Reaktion auf komplexe und langfristig angelegte Cyberangriffe |
+| 09 | **IT-Forensik** | Datenträgerforensik, Speicherforensik, digitale Beweise und forensische Analyse |
+| 10 | **SIEM, Logging & Detection** | Security Information and Event Management (SIEM), Logging und Angriffserkennung |
+| 11 | **DevSecOps** | Development, Security and Operations (DevSecOps), Codeanalyse und sichere Softwareentwicklung |
+| 12 | **Cloud & Container Security** | Cloud-Sicherheit, Container, Kubernetes und Cloud-Infrastrukturen |
+| 13 | **Industrial & OT Security** | Operational Technology (OT), industrielle Netzwerke und Produktionsumgebungen |
+| 14 | **Hardware & Embedded Security** | Hardware, Funktechnologien, eingebettete Systeme und Internet of Things (IoT) |
+| 15 | **Awareness & Social Engineering** | Phishing, Social Engineering, Security Awareness und menschliche Faktoren |
+| 16 | **Behörden, Regulierung & Standards** | Behörden, Gesetze, Normen, Standards, Frameworks und Meldeportale |
+| 17 | **Dienstleister & Security-Partner** | IT-Forensik, Security Operations und externe Security-Spezialisten |
+| 18 | **Reporting & Fallbeispiele** | Dokumentation, Digital Forensics and Incident Response (DFIR) und reale Fallbeispiele |
+
+---
+
+## 🔎 Weiterführende Informationen
+
+Im Bereich **Weiterführende Informationen** befinden sich themenübergreifende Quellen für Recherche und wissenschaftliches Arbeiten.
+
+---
+
+## 🧪 Übungen & Lernpfad
+
+Neben der Werkzeugsammlung gibt es einen eigenen Bereich für **Übungen und einen strukturierten Lernpfad**.
+
+Ziel ist es, die einzelnen Werkzeuge nicht nur aufzulisten, sondern ihren praktischen Zusammenhang zu verstehen.
+
+Ein möglicher Ablauf ist:
+
+**Angriff verstehen → Ereignisse erzeugen → Logs sammeln → Angriff erkennen → Detection Rule erstellen → Sicherheitsvorfall analysieren → Maßnahmen einleiten**
+
+Der Lernpfad führt unter anderem durch:
+
+1. IT-Security-Grundlagen
+2. Windows Security
+3. Netzwerk & Open Source Intelligence (OSINT)
+4. Schwachstellenanalyse
+5. Angriffstechniken
+6. Security Information and Event Management (SIEM) & Detection
+7. Incident Response
+8. IT-Forensik
+9. Development, Security and Operations (DevSecOps)
+10. Industrial & Operational Technology (OT) Security
+11. Cloud & Container Security
+
+---
+
+## 🛠️ Aufbau der Einträge
+
+Die Werkzeuge und Ressourcen werden möglichst nach einem einheitlichen Schema beschrieben:
+
+**Werkzeug / Ressource**
+
+- **Wofür:** Kurze Beschreibung des Einsatzzwecks
+- **Relevanz:** Einordnung für IT-Sicherheit, Studium oder praktische Übungen
+- **Link:** Möglichst offizielle Webseite oder offizielles Repository
+
+Abkürzungen werden bei der ersten Verwendung ausgeschrieben, damit die Sammlung auch ohne umfangreiche Vorkenntnisse verständlich bleibt.
+
+---
+
+## ⚠️ Rechtlicher & ethischer Hinweis
+
+Einige der aufgeführten Werkzeuge können für Penetration Testing, Schwachstellenanalysen, Malware-Analysen oder andere sicherheitsbezogene Tests eingesetzt werden.
+
+Die Verwendung solcher Werkzeuge sollte ausschließlich:
+
+- auf eigenen Systemen,
+- in dafür vorgesehenen Labor- und Testumgebungen oder
+- mit ausdrücklicher Genehmigung des jeweiligen Systembetreibers
+
+erfolgen.
+
+Die Sammlung dient **Lern-, Forschungs- und Sicherheitszwecken**.
+
+---
+
+## 🚧 Status
+
+Das Repository befindet sich im Aufbau.
+
+Bereiche mit dem Symbol **🚧** sind noch unvollständig oder werden derzeit erweitert.
+
+Geplant sind unter anderem:
+
+- weitere Open-Source-Werkzeuge
+- Cloud- und Container-Security-Tools
+- zusätzliche Netzwerk-Security-Werkzeuge
+- praktische Security-Labs
+- weitere Fallbeispiele
+- ergänzende Lernpfade
+- Kennzeichnung von Open Source und kostenlosen Werkzeugen
+
+---
+
+## 🤝 Beiträge & Hinweise
+
+Hinweise auf interessante Werkzeuge, fehlerhafte Links oder sinnvolle Ergänzungen sind willkommen.
+
+Bei neuen Werkzeugen sollte möglichst darauf geachtet werden, dass sie einen nachvollziehbaren Bezug zur IT-Sicherheit haben und dem passenden Themenbereich zugeordnet werden.
+
+---
+
+## 📌 Grundidee
+
+> **Nicht möglichst viele Tools sammeln, sondern Werkzeuge sinnvoll einordnen, verstehen und praktisch anwenden.**
+
+
+
+
+
+
+
 
 
 
