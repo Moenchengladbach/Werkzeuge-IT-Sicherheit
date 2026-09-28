@@ -8,7 +8,7 @@ Cloud & Container Security umfasst Sicherheitsmaßnahmen und Werkzeuge für Clou
 - Fehlkonfigurationen erkennen
 - Container-Sicherheit kennenlernen
 - Kubernetes-Sicherheit einordnen
-- Identity and Access Management in Cloud-Umgebungen verstehen
+- Identity and Access Management (IAM) in Cloud-Umgebungen verstehen
 
 ## Relevanz
 
