@@ -7,7 +7,7 @@ Werkzeuge und Informationen zur Analyse, Überwachung und Absicherung von Netzwe
 - Netzwerkkommunikation verstehen und analysieren
 - Auffälligen Netzwerkverkehr erkennen
 - Netzwerkbasierte Angriffe identifizieren
-- Intrusion-Detection- und Intrusion-Prevention-Systeme verstehen
+- Intrusion Detection Systems (IDS) und Intrusion Prevention Systems (IPS) verstehen
 
 ## Relevanz
 
@@ -18,7 +18,7 @@ Netzwerksicherheit bildet eine Grundlage für Monitoring, Incident Detection, Fo
 ### Intrusion Detection & Prevention
 
 - [Snort](https://www.snort.org/)
-  - **Wofür:** Netzwerkbasiertes Intrusion Detection System (IDS) und Intrusion Prevention System (IPS)
+  - **Wofür:** Netzwerkbasiertes IDS und IPS
   - **Relevanz:** Netzwerküberwachung und Angriffserkennung
 
 ### Grundlagen & Lernmaterial
