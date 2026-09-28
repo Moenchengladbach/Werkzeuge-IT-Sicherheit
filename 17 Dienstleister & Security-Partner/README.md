@@ -26,6 +26,6 @@ Externe Security-Spezialisten sind insbesondere relevant, wenn Organisationen in
   - **Wofür:** Managed Security Operations und Security Monitoring
   - **Relevanz:** Externe Security Operations für Unternehmen
 
-### APT-Response
+### Advanced Persistent Threat Response (APT-Response)
 
-Qualifizierte Anbieter für **Advanced Persistent Threat Response (APT-Response)** werden thematisch unter **08 – APT-Response** geführt.
+Qualifizierte Anbieter für **APT-Response** werden thematisch unter **08 – APT-Response** geführt.
