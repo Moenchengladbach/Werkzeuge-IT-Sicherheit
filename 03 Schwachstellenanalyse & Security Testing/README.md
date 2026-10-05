@@ -29,7 +29,6 @@ Schwachstellenmanagement und Security Testing gehören zu den wichtigsten präve
 
 ### Vulnerability Scanner
 
-- **V-Scanner**
-  - **Wofür:** Schwachstellenscanning
-  - **Relevanz:** Kommerzielle Schwachstellenanalyse
-  - 🚧 **Link/Produktzuordnung noch prüfen**
+- [OpenVAS Scanner – Greenbone Community Edition](https://github.com/greenbone/openvas-scanner)
+  - **Wofür:** Open-Source-Scanner zur Erkennung von Schwachstellen und Fehlkonfigurationen
+  - **Relevanz:** Vulnerability Management sowie Lern- und Laborumgebungen

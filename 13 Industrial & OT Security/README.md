@@ -27,9 +27,16 @@ OT Security ist insbesondere für Produktion, Automotive, Energieversorgung und 
   - **Wofür:** Einstieg in PROFINET und industrielle Kommunikation
   - **Relevanz:** Grundlagen industrieller Netzwerke
 
+### Standards & Sicherheitsarchitektur
+
+- [ISA/IEC 62443 – Industrial Automation and Control Systems Security](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards)
+  - **Wofür:** Normenreihe für die Cybersicherheit industrieller Automatisierungs- und Steuerungssysteme
+  - **Relevanz:** OT Security, Industrial Control Systems und sichere industrielle Architekturen
+
 ### OT-Schwachstellenanalyse
 
-- **Active Vulnerability Scanner (OT)**
-  - **Wofür:** Schwachstellenanalyse industrieller Systeme
-  - **Relevanz:** OT Security
-  - 🚧 **Konkreten Produktlink noch prüfen**
+- [ICScheck](https://github.com/icscheck-tool/icscheck)
+  - **Wofür:** Open-Source-Sicherheitsaudit für Industrial Control Systems (ICS), Supervisory Control and Data Acquisition (SCADA) und Human Machine Interfaces (HMI)
+  - **Open Source:** Ja
+  - **Relevanz:** OT-Sicherheitsaudits, IEC 62443, NIS2 sowie Lern- und Laborumgebungen
+  - **Hinweis:** Audit-Werkzeug; nicht mit aktivem Netzwerkscanning in produktiven OT-Umgebungen gleichzusetzen

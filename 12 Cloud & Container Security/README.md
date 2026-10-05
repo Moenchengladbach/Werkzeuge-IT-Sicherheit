@@ -16,14 +16,20 @@ Cloud- und Container-Sicherheit sind zentrale Bestandteile moderner IT-Infrastru
 
 ## Inhalt
 
-### Cloud Security
+### Cloud & Container Scanning
 
-🚧 **Baustelle – Inhalte und Werkzeuge werden ergänzt.**
+- [Trivy](https://github.com/aquasecurity/trivy)
+  - **Wofür:** Scanning von Container-Images, Dateisystemen, Git-Repositories und Kubernetes auf Schwachstellen, Fehlkonfigurationen und Secrets
+  - **Relevanz:** Cloud Native Security, Container Security, DevSecOps sowie Lern- und Laborumgebungen
 
-### Container Security
+### Container Runtime Security
 
-🚧 **Baustelle – Inhalte und Werkzeuge werden ergänzt.**
+- [Falco](https://github.com/falcosecurity/falco)
+  - **Wofür:** Erkennung verdächtiger Aktivitäten zur Laufzeit auf Linux-, Container- und Kubernetes-Systemen
+  - **Relevanz:** Runtime Security, Threat Detection und Cloud Native Security
 
 ### Kubernetes Security
 
-🚧 **Baustelle – Inhalte und Werkzeuge werden ergänzt.**
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - **Wofür:** Prüfung von Kubernetes-Konfigurationen anhand des Center for Internet Security (CIS) Kubernetes Benchmark
+  - **Relevanz:** Kubernetes Hardening, Security Audits sowie Lern- und Laborumgebungen

@@ -48,7 +48,7 @@ Windows
 ### Stufe 4 – Schwachstellenanalyse
 
 [PingCastle](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#active-directory-sicherheit)
-→ [Vulnerability Scanner](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#vulnerability-scanner)
+→ [OpenVAS](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#vulnerability-scanner)
 → Security Assessment
 
 **Ziel:** Schwachstellen und Fehlkonfigurationen erkennen und bewerten.
@@ -99,16 +99,18 @@ Detection
 ### Stufe 10 – Industrial & Operational Technology Security
 
 [PROFINET](../13%20Industrial%20&%20OT%20Security/README.md#profinet)
-→ IEC 62443
+→ [ISA/IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md#standards--sicherheitsarchitektur)
 → [Operational Technology (OT) Security](../13%20Industrial%20&%20OT%20Security/README.md)
 
 **Ziel:** Grundlagen industrieller Netzwerke und Besonderheiten der OT-Sicherheit kennenlernen.
 
 ### Stufe 11 – Cloud & Container Security
 
-[Cloud & Container Security](../12%20Cloud%20&%20Container%20Security/README.md)
+[Trivy](../12%20Cloud%20&%20Container%20Security/README.md#cloud--container-scanning)
+→ [kube-bench](../12%20Cloud%20&%20Container%20Security/README.md#kubernetes-security)
+→ [Falco](../12%20Cloud%20&%20Container%20Security/README.md#container-runtime-security)
 
-🚧 **Baustelle – wird mit zukünftigen Werkzeugen und Übungen erweitert.**
+**Ziel:** Container-Images und Kubernetes-Konfigurationen prüfen sowie verdächtige Aktivitäten zur Laufzeit erkennen.
 
 ## Empfohlene Werkzeug-Reihenfolge
 
@@ -120,8 +122,8 @@ Detection
 6. [ANY.RUN](../06%20Malware%20&%20Angriffsvektoren/README.md#malware-analyse--sandbox)
 7. [SonarQube](../11%20DevSecOps/README.md#statische-codeanalyse)
 8. [PingCastle](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#active-directory-sicherheit)
-9. Ansible
-10. [Operational Technology (OT) / IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md)
+9. [Ansible](../11%20DevSecOps/README.md#automatisierung--configuration-management)
+10. [Operational Technology (OT) / ISA/IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md#standards--sicherheitsarchitektur)
 
 ## Hinweis
 

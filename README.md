@@ -37,24 +37,26 @@ Der Schwerpunkt liegt auf **Lernen, Studium, Security-Labs und der praktischen A
 
 | Nr. | Themenbereich | Inhalt |
 |---:|---|---|
-| 01 | **OSINT & Reconnaissance** | Open Source Intelligence (OSINT), Informationsgewinnung, Domain- und IP-Recherche |
-| 02 | **Netzwerk & Netzwerksicherheit** | Netzwerkanalyse, Monitoring, Intrusion Detection und Netzwerkgrundlagen |
-| 03 | **Schwachstellenanalyse & Security Testing** | Schwachstellenscanner, Security Assessments und Sicherheitsprüfungen |
-| 04 | **Webseitenanalyse** | URL-Analyse, HTTP-Sicherheit, Redirects, Datenlecks und Web-Beweissicherung |
-| 05 | **Authentifizierung & Verschlüsselung** | Multi-Faktor-Authentifizierung (MFA), Zertifikate, Kryptografie und sichere Kommunikation |
-| 06 | **Malware & Angriffsvektoren** | Malware-Analyse, Ransomware, Credential-Angriffe und Angriffstechniken |
-| 07 | **Incident Response** | Erkennung, Analyse, Eindämmung und Behandlung von IT-Sicherheitsvorfällen |
-| 08 | **Advanced Persistent Threat Response (APT-Response)** | Reaktion auf komplexe und langfristig angelegte Cyberangriffe |
-| 09 | **IT-Forensik** | Datenträgerforensik, Speicherforensik, digitale Beweise und forensische Analyse |
-| 10 | **SIEM, Logging & Detection** | Security Information and Event Management (SIEM), Logging und Angriffserkennung |
-| 11 | **DevSecOps** | Development, Security and Operations (DevSecOps), Codeanalyse und sichere Softwareentwicklung |
-| 12 | **Cloud & Container Security** | Cloud-Sicherheit, Container, Kubernetes und Cloud-Infrastrukturen |
-| 13 | **Industrial & OT Security** | Operational Technology (OT), industrielle Netzwerke und Produktionsumgebungen |
-| 14 | **Hardware & Embedded Security** | Hardware, Funktechnologien, eingebettete Systeme und Internet of Things (IoT) |
-| 15 | **Awareness & Social Engineering** | Phishing, Social Engineering, Security Awareness und menschliche Faktoren |
-| 16 | **Behörden, Regulierung & Standards** | Behörden, Gesetze, Normen, Standards, Frameworks und Meldeportale |
-| 17 | **Dienstleister & Security-Partner** | IT-Forensik, Security Operations und externe Security-Spezialisten |
-| 18 | **Reporting & Fallbeispiele** | Dokumentation, Digital Forensics and Incident Response (DFIR) und reale Fallbeispiele |
+| 01 | **[OSINT & Reconnaissance](01%20OSINT%20&%20Reconnaissance/README.md)** | Open Source Intelligence (OSINT), Informationsgewinnung, Domain- und IP-Recherche |
+| 02 | **[Netzwerk & Netzwerksicherheit](02%20Netzwerk%20&%20Netzwerksicherheit/README.md)** | Netzwerkanalyse, Monitoring, Intrusion Detection und Netzwerkgrundlagen |
+| 03 | **[Schwachstellenanalyse & Security Testing](03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md)** | Schwachstellenscanner, Security Assessments und Sicherheitsprüfungen |
+| 04 | **[Webseitenanalyse](04%20Webseitenanalyse/README.md)** | URL-Analyse, HTTP-Sicherheit, Redirects, Datenlecks und Web-Beweissicherung |
+| 05 | **[Authentifizierung & Verschlüsselung](05%20Authentifizierung%20&%20Verschlüsselung/README.md)** | Multi-Faktor-Authentifizierung (MFA), Zertifikate, Kryptografie und sichere Kommunikation |
+| 06 | **[Malware & Angriffsvektoren](06%20Malware%20&%20Angriffsvektoren/README.md)** | Malware-Analyse, Ransomware, Credential-Angriffe und Angriffstechniken |
+| 07 | **[Incident Response](07%20Incident%20Response/README.md)** | Erkennung, Analyse, Eindämmung und Behandlung von IT-Sicherheitsvorfällen |
+| 08 | **[Advanced Persistent Threat Response (APT-Response)](08%20APT-Response/README.md)** | Reaktion auf komplexe und langfristig angelegte Cyberangriffe |
+| 09 | **[IT-Forensik](09%20IT-Forensik/README.md)** | Datenträgerforensik, Speicherforensik, digitale Beweise und forensische Analyse |
+| 10 | **[SIEM, Logging & Detection](10%20SIEM,%20Logging%20&%20Detection/README.md)** | Security Information and Event Management (SIEM), Logging und Angriffserkennung |
+| 11 | **[DevSecOps](11%20DevSecOps/README.md)** | Development, Security and Operations (DevSecOps), Codeanalyse und sichere Softwareentwicklung |
+| 12 | **[Cloud & Container Security](12%20Cloud%20&%20Container%20Security/README.md)** | Cloud-Sicherheit, Container, Kubernetes und Cloud-Infrastrukturen |
+| 13 | **[Industrial & OT Security](13%20Industrial%20&%20OT%20Security/README.md)** | Operational Technology (OT), industrielle Netzwerke und Produktionsumgebungen |
+| 14 | **[Hardware & Embedded Security](14%20Hardware%20&%20Embedded%20Security/README.md)** | Hardware, Funktechnologien, eingebettete Systeme und Internet of Things (IoT) |
+| 15 | **[Awareness & Social Engineering](15%20Awareness%20&%20Social%20Engineering/README.md)** | Phishing, Social Engineering, Security Awareness und menschliche Faktoren |
+| 16 | **[Behörden, Regulierung & Standards](16%20Behörden,%20Regulierung%20&%20Standards/README.md)** | Behörden, Gesetze, Normen, Standards, Frameworks und Meldeportale |
+| 17 | **[Dienstleister & Security-Partner](17%20Dienstleister%20&%20Security-Partner/README.md)** | IT-Forensik, Security Operations und externe Security-Spezialisten |
+| 18 | **[Reporting & Fallbeispiele](18%20Reporting%20&%20Fallbeispiele/README.md)** | Dokumentation, Digital Forensics and Incident Response (DFIR) und reale Fallbeispiele |
+| – | **[Weiterführende Informationen](Weiterführende%20Informationen/README.md)** | Themenübergreifende Quellen für Recherche, wissenschaftliches Arbeiten und ergänzende Informationen |
+| – | **[Übungen & Lernpfad](Übungen/README.md)** | Praktische Übungen, Werkzeug-Reihenfolge und strukturierter Lernpfad durch die Themenbereiche |
 
 ---
 

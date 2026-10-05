@@ -19,3 +19,9 @@ DevSecOps ermöglicht die frühzeitige Erkennung von Sicherheitsproblemen währe
 - [SonarQube – GitHub](https://github.com/SonarSource/sonarqube)
   - **Wofür:** Statische Codeanalyse zur Erkennung von Fehlern, Schwachstellen und Code Smells
   - **Relevanz:** Softwareentwicklung, Code Quality und DevSecOps
+
+### Automatisierung & Configuration Management
+
+- [Ansible – offizielle Dokumentation](https://docs.ansible.com/projects/ansible/latest/)
+  - **Wofür:** Open-Source-Automatisierung von Systemkonfiguration, Deployment und wiederkehrenden Administrationsaufgaben
+  - **Relevanz:** Automatisierung, Configuration Management, Infrastructure as Code und DevSecOps
