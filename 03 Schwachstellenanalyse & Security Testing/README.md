@@ -31,5 +31,4 @@ Schwachstellenmanagement und Security Testing gehören zu den wichtigsten präve
 
 - [OpenVAS Scanner – Greenbone Community Edition](https://github.com/greenbone/openvas-scanner)
   - **Wofür:** Open-Source-Scanner zur Erkennung von Schwachstellen und Fehlkonfigurationen
-  - **Open Source:** Ja
   - **Relevanz:** Vulnerability Management sowie Lern- und Laborumgebungen
