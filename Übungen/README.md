@@ -48,7 +48,7 @@ Windows
 ### Stufe 4 – Schwachstellenanalyse
 
 [PingCastle](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#active-directory-sicherheit)
-→ [Vulnerability Scanner](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#vulnerability-scanner)
+→ [OpenVAS](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#vulnerability-scanner)
 → Security Assessment
 
 **Ziel:** Schwachstellen und Fehlkonfigurationen erkennen und bewerten.
