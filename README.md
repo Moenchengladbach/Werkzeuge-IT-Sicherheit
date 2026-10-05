@@ -55,6 +55,8 @@ Der Schwerpunkt liegt auf **Lernen, Studium, Security-Labs und der praktischen A
 | 16 | **Behörden, Regulierung & Standards** | Behörden, Gesetze, Normen, Standards, Frameworks und Meldeportale |
 | 17 | **Dienstleister & Security-Partner** | IT-Forensik, Security Operations und externe Security-Spezialisten |
 | 18 | **Reporting & Fallbeispiele** | Dokumentation, Digital Forensics and Incident Response (DFIR) und reale Fallbeispiele |
+| – | **[Weiterführende Informationen](Weiterführende%20Informationen/README.md)** | Themenübergreifende Quellen für Recherche, wissenschaftliches Arbeiten und ergänzende Informationen |
+| – | **[Übungen & Lernpfad](Übungen/README.md)** | Praktische Übungen, Werkzeug-Reihenfolge und strukturierter Lernpfad durch die Themenbereiche |
 
 ---
 
