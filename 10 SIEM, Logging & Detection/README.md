@@ -41,7 +41,7 @@ SIEM, Logging und Detection bilden die technische Grundlage vieler Security Oper
 
 ### Historische Werkzeuge
 
-- **Logging Made Easy**
-  - **Wofür:** Vereinfachte Logging-/SIEM-Umgebung
-  - **Status:** 🚧 Historisch / nicht mehr aktiv gepflegt
-  - **Relevanz:** Dokumentation älterer Lösungsansätze
+- [CISA – Logging Made Easy (LME), archiviert](https://github.com/cisagov/lme-docs)
+  - **Wofür:** Vereinfachte Logging- und SIEM-Umgebung
+  - **Status:** Historisch – Unterstützung durch CISA seit 22. Mai 2026 eingestellt
+  - **Relevanz:** Dokumentation und Nachvollziehen eines früheren Logging-/SIEM-Ansatzes
