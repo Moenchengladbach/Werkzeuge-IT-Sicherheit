@@ -99,7 +99,7 @@ Detection
 ### Stufe 10 – Industrial & Operational Technology Security
 
 [PROFINET](../13%20Industrial%20&%20OT%20Security/README.md#profinet)
-→ IEC 62443
+→ [ISA/IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md#standards--sicherheitsarchitektur)
 → [Operational Technology (OT) Security](../13%20Industrial%20&%20OT%20Security/README.md)
 
 **Ziel:** Grundlagen industrieller Netzwerke und Besonderheiten der OT-Sicherheit kennenlernen.
@@ -120,8 +120,8 @@ Detection
 6. [ANY.RUN](../06%20Malware%20&%20Angriffsvektoren/README.md#malware-analyse--sandbox)
 7. [SonarQube](../11%20DevSecOps/README.md#statische-codeanalyse)
 8. [PingCastle](../03%20Schwachstellenanalyse%20&%20Security%20Testing/README.md#active-directory-sicherheit)
-9. Ansible
-10. [Operational Technology (OT) / IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md)
+9. [Ansible](../11%20DevSecOps/README.md#automatisierung--configuration-management)
+10. [Operational Technology (OT) / ISA/IEC 62443](../13%20Industrial%20&%20OT%20Security/README.md#standards--sicherheitsarchitektur)
 
 ## Hinweis
 
