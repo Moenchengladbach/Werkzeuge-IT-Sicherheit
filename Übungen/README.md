@@ -106,9 +106,11 @@ Detection
 
 ### Stufe 11 – Cloud & Container Security
 
-[Cloud & Container Security](../12%20Cloud%20&%20Container%20Security/README.md)
+[Trivy](../12%20Cloud%20&%20Container%20Security/README.md#cloud--container-scanning)
+→ [kube-bench](../12%20Cloud%20&%20Container%20Security/README.md#kubernetes-security)
+→ [Falco](../12%20Cloud%20&%20Container%20Security/README.md#container-runtime-security)
 
-🚧 **Baustelle – wird mit zukünftigen Werkzeugen und Übungen erweitert.**
+**Ziel:** Container-Images und Kubernetes-Konfigurationen prüfen sowie verdächtige Aktivitäten zur Laufzeit erkennen.
 
 ## Empfohlene Werkzeug-Reihenfolge
 
